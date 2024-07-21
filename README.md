@@ -9,6 +9,8 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/vp81vishnu](https://github.com/vp81vishnu)
 
+- 👨‍💻 Visit My Personal Portfolio at  [https://bit.ly/VishnuPrasathPortfolio](https://bit.ly/VishnuPrasathPortfolio)
+
 - 💬 Ask me about **My projects**
 
 - 📫 How to reach me **vp81vishnu@gmail.com**
