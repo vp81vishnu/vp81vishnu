@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/vp81vishnu](https://github.com/vp81vishnu)
 
-- 👨‍💻 Visit My Personal Portfolio at  [https://bit.ly/VishnuPrasathPortfolio](https://bit.ly/VishnuPrasathPortfolio)
+- 👨‍💻 Visit My Personal Portfolio at https://timely-monstera-bb36c2.netlify.app/
 
 - 💬 Ask me about **My projects**
 
