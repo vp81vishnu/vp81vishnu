@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Console Apllications and DataBases**
 
-- 🌱 I’m currently learning **MySql Database**
+- 🌱 I’m currently learning **Sql Database**
 
 - 👨‍💻 All of my projects are available at [https://github.com/vp81vishnu](https://github.com/vp81vishnu)
 
