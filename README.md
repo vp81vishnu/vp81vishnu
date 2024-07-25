@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vp81vishnu&label=Profile%20views&color=0e75b6&style=flat" alt="vp81vishnu" /> </p>
 
-- 🔭 I’m currently working on **Console Apllications**
+- 🔭 I’m currently working on **Console Apllications and DataBases**
 
 - 🌱 I’m currently learning **MySql Database**
 
